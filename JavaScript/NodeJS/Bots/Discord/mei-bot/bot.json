@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "ChannelBot",
+      "script": "bot.js",
+      "args": "--color --watch-ignore",
+      "ignore_watch": ["output-log.txt", "node_modules"],
+      "watch": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"users": {
+		"test": [
+			"<@U15NA9V6W>",
+			"<@U1D1F30KF>"
+		],
+		"rc": [
+			"<@U0J3HRCEA>",
+			"<@U0J3LLWJV>",
+			"<@U0J3H53S5>"
+		],
+		"qa": []
+	},
+	"prefix": "@"
+}

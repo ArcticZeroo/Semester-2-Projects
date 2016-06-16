@@ -1,0 +1,57 @@
+﻿
+[1m[5/26/2016 19:26:48] [22m[31m[channelCreated Event] ERROR: [39mTypeError: Cannot use 'in' operator to search for 'rabbit' in undefined
+[1m[5/26/2016 19:34:57] [22m[35m[Warn Event] ERROR: [39mchannel created but already in cache
+[1m[5/26/2016 19:38:19] [22m[31m[printChannels()] ERROR: [39mTypeError: Cannot read property 'server' of undefined
+[1m[5/26/2016 19:39:10] [22m[31m[printChannels()] ERROR: [39mTypeError: Cannot read property 'server' of undefined
+[1m[5/26/2016 19:40:25] [22m[31m[printChannels()] ERROR: [39mTypeError: Cannot read property 'id' of undefined
+[1m[5/26/2016 19:59:48] [22m[33mDEBUG: [39mDeleted temporary channel rabbit, because it is empty.
+[1m[5/26/2016 19:59:49] [22m[35m[Warn Event] WARNING: [39mchannel deleted but already out of cache?
+[1m[5/26/2016 20:08:18] [22m[33mDEBUG: [39mDeleted channel rabbit from array and config.
+[1m[5/26/2016 20:08:33] [22m[35m[Warn Event] WARNING: [39mchannel created but already in cache
+[1m[5/26/2016 20:08:42] [22m[35m[Warn Event] WARNING: [39mchannel deleted but already out of cache?
+[1m[5/26/2016 20:11:49] [22m[35m[Warn Event] WARNING: [39mchannel deleted but already out of cache?
+[1m[5/26/2016 20:18:42] [22m[33mDEBUG: [39mChannel NewChannel has been created, assumed to be permanent.
+[1m[5/26/2016 20:27:42] [22m[35m[Warn Event] WARNING: [39mchannel deleted but already out of cache?
+[1m[5/26/2016 20:28:34] [22m[33mDEBUG: [39mDeleted channel rabbitonia from array and config.
+[1m[5/26/2016 20:29:32] [22m[33mDEBUG: [39mDeleted channel rabbitonia from array and config.
+[1m[5/26/2016 20:32:28] [22m[35m[Warn Event] WARNING: [39mchannel created but already in cache
+[1m[5/26/2016 20:32:45] [22m[33mDEBUG: [39mDeleted channel rabbit from array and config.
+[1m[5/26/2016 20:32:50] [22m[35m[Warn Event] WARNING: [39mchannel created but already in cache
+[1m[5/26/2016 22:43:43] [22m[31m[Error Event] ERROR: [39mError: getaddrinfo ENOTFOUND gateway.discord.gg gateway.discord.gg:443
+[5/27/2016 17:22:11] [Eval Command] ERROR: ReferenceError: performance is not defined
+[5/28/2016 11:56:55] [Error Event] ERROR: Error: getaddrinfo ENOENT gateway.discord.gg:443
+[5/29/2016 14:42:08] [Error Event] ERROR: Error: getaddrinfo ENOENT gateway.discord.gg:443
+[5/29/2016 14:42:10] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:12] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:14] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:16] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:18] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:20] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:22] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:24] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:26] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:28] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:30] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:32] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:34] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:36] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:38] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:40] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:42] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:44] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:46] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:48] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:50] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:52] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:54] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:56] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:42:58] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:43:00] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOENT discordapp.com:443
+[5/29/2016 14:43:02] [login()] ERROR: Could not log into Discord: Error: getaddrinfo ENOTFOUND discordapp.com discordapp.com:443
+[5/29/2016 17:10:08] [Google Command] ERROR: TypeError: args.shift(...).shift is not a function
+[5/30/2016 22:27:18] [Ready Event] ERROR: ReferenceError: channels is not defined
+[5/30/2016 22:29:37] [Message Event] ERROR: TypeError: Cannot read property 'users' of undefined
+[5/30/2016 22:30:13] [Ready Event] ERROR: ReferenceError: channels is not defined
+[5/30/2016 22:30:16] [Message Event] ERROR: TypeError: Cannot read property 'muted' of undefined
+[5/31/2016 10:11:15] [Warn Event] WARNING: channel created but already in cache
+[5/31/2016 10:12:26] [Status Command] ERROR: ReferenceError: uptime is not defined

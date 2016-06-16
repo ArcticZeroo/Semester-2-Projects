@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Chapter 4.cpp
+  Generating code
+d:\documents\visual studio 2015\projects\chapter 4\chapter 4\chapter 4.cpp(104): warning C4715: 'getMonsterType': not all control paths return a value
+  All 87 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Chapter 4.vcxproj -> D:\Documents\Visual Studio 2015\Projects\Chapter 4\Release\Chapter 4.exe

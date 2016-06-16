@@ -1,0 +1,34 @@
+{
+	"bot": {
+		"token": "",
+		"keys": {
+			"youtube": ""
+		},
+		"developer": "115983185908596741"
+	},
+	"channel_permissions": {
+		"temporary": 0,
+		"permanent": 13
+	},
+	"user_permissions": {
+		"user": 1,
+		"moderator": 10,
+		"bot": 13,
+		"admin": 15
+	},
+	"channels": {
+		"176155788933332992": {
+			"NewChannel": {
+				"type": "perm",
+				"creator": "none"
+			}
+		},
+		"115983533318733830": {},
+		"183686625744650240": {
+			"General": {
+				"type": "perm",
+				"creator": "none"
+			}
+		}
+	}
+}

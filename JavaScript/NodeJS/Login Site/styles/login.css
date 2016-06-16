@@ -1,0 +1,112 @@
+input:not([type="submit"]){
+    display: block;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #B6B6B6;
+    margin-bottom: 16px;
+}
+input[type="submit"], button[type="button"]{
+    background: none;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    min-width: 88px;
+    height: 36px;
+    border-radius: 2px;
+}
+input:focus{
+    outline: none;
+}
+label{
+    color: #212121;
+    font-size: 12px;
+}
+
+.dialog{
+    margin: 0 auto;
+    min-width: 280px;
+    width: 280px;
+    background-color: #FAFAFA;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12), 0 8px 24px rgba(0,0,0,0.24);
+    margin-top: 128px;
+    -webkit-user-select: none; /* Chrome/Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+ */
+
+    /* Rules below not implemented in browsers yet */
+    -o-user-select: none;
+}
+
+.dialog .group .title{
+    padding-bottom: 4px;
+    font-size: 20px;
+    color: #212121;
+}
+
+.dialog .group .inputs{
+    width: calc(100% - 48px);
+    padding: 24px 24px 24px 24px;
+}
+.dialog .group .input{
+    padding-top: 16px;
+    height: calc(72px - 16px);
+}
+.dialog .group .input label{
+    padding-bottom: 4px;
+    color: #999;
+    transition-property: all;
+    transition-duration: .15s;
+    transition-timing-function: cubic-bezier(0.4,0.0,1,1);
+}
+.dialog .group .input input{
+    padding-top: 4px;
+    height: 8px;
+    padding-bottom: 8px;
+    width: 100%;
+}
+.dialog .group .buttons{
+    height: 52px;
+}
+.dialog .group .buttons input[type="submit"], .dialog .group .buttons button[type="button"]{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    height: 36px;
+    color: #2196F3;
+    padding-right: 8px;
+    padding-left: 0px;
+    float: right;
+    cursor: pointer;
+}
+
+.dialog .group .buttons input[type="submit"]:disabled, .dialog .group .buttons button[type="button"]:disabled{
+    color: rgba(0,0,0,0.26);
+}
+
+.bar{
+    position: relative;
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #2196F3;
+    transition-property: all;
+    transition-duration: .15s;
+    transition-timing-function: cubic-bezier(0.4,0.0,1,1);
+    margin: 0 auto;
+    transform: translateY(-17px);
+}
+
+.dialog .bar-red{
+    background: #F44336;
+}
+
+input:focus ~ .bar{
+    width: 100%;    
+}
+.dialog .group .inputs .input label.input-selected{
+    color: #2196F3;
+}
+
+.dialog .group .inputs .input label.input-selected.red{
+    color: #F44336;
+}

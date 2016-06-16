@@ -1,0 +1,36 @@
+Channel Array:
+	Holds all permanent and temporary channels - DONE
+	Creates perm channels if they don't exist on startup - MAYBE NOT POSSIBLE
+	Deletes all channels not in the array if they are empty on startup - DONE
+	Adds all non-empty channels in the array to the array on startup (assumes they are temp) - KIND OF DONE
+	Holds creator of all channels - DONE I THINK
+
+User creates a temp channel:
+	Bot creates physical channel - DONE
+	Channel is added to array - DONE
+		has type temp, obviously - DONE
+	If the user who creates the channel is not in voice, they must join it within 30s or it is deleted
+		Possibly add an "activated" flag (0/1) to the channel in the array
+	If the user who creates the channel IS in voice, they are moved to the new channel
+
+On user joining any voice channel:
+	add them to the text channel for the voice channel.
+
+On user leaving any voice channel:
+	Check if the remaining users is 0
+	If so, check if the channel is temp
+	If both conditions are true, DELETE THE Channel
+
+There MUST be a command to modify the channel array (add new perm channels as an admin)
+Also a add a command for getting the user ID/name of a person
+
+@MineplexBot channel temp "name"
+@MineplexBot channel perm "name"
+startsWith("perm") or startsWith("perm")
+
+-----
+
+Roles
+
+When a user creates a temp channel:
+	A new role is created for that channel (maybe <channel>-mngr) which allows them to manage the channel.

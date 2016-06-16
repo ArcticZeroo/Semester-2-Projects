@@ -1,0 +1,131 @@
+*{
+    font-family: Roboto;
+}
+html{
+    height: 100%;
+    background-color: #EEEEEE;
+}
+body{
+    margin: 0 0 0 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.content{
+    width: 100%;
+    height: 100%;
+}
+
+.group{
+    width: 100%;
+    height: 100%;
+}
+.toast{
+    background-color: #323232;
+    color: white;
+    text-align: left;
+    position: absolute;
+    bottom: 24px;
+    left: 24px;
+    max-width: 568px;
+    min-height: 20px;
+    z-index: 1200;
+    display: inline-block;
+    border-radius: 2px;
+    animation-duration: 5s;
+    animation-name: toast;
+    animation-timing-function: cubic-bezier(0.4,0.0,1,1);
+    opacity: 0;
+}
+.toast .message{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+@keyframes toast{
+    0%{
+        opacity: 0;
+        transform: translateY(16px);
+    }
+    3%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+    97%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+    100%{
+        opacity: 0;
+        transform: translateY(16px);
+    }
+}
+
+.snackbar{
+    position: absolute;
+    bottom: 0;
+    height: 48px;
+    font-size: 14px;
+    background: #323232;
+    width: 100%;
+    color: #FAFAFA;   
+    opacity: 0;
+    animation-name: snackbar;
+    animation-delay: .5s;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+}
+.snackbar .message{
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    opacity: 0;
+    animation-name: snackbar-text;
+    animation-duration: 6s;
+    animation-timing-function: ease;
+    animation-delay: .6s;
+}
+.snackbar .action{
+    padding-right: 24px;
+}
+
+@keyframes snackbar{
+    0%{
+        opacity: 0;
+        transform: translateY(48px);
+    }
+    1%{
+        opacity: 1;
+    }
+    5%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+    95%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+    99%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 0;
+        transform: translateY(48px);
+    }
+}
+
+@keyframes snackbar-text{
+    0%{
+        opacity: 0;
+    }
+    5%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 1;
+    }
+}

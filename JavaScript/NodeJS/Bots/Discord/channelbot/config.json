@@ -1,0 +1,81 @@
+{
+	"bot": {
+		"token": "",
+		"developer": "115983185908596741"
+	},
+	"channel_permissions": {
+		"temporary": 0,
+		"permanent": 13
+	},
+	"user_permissions": {
+		"user": 1,
+		"moderator": 10,
+		"admin": 15
+	},
+	"channels": {
+		"________Lounges________": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"Dorado": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"Hanamura": {
+			"type": "perm",
+			"creator": "<@140204477587259393>"
+		},
+		"Hollywood": {
+			"type": "perm",
+			"creator": "<@140204477587259393>"
+		},
+		"Ilios": {
+			"type": "perm",
+			"creator": "<@140204477587259393>"
+		},
+		"______Pub Games______": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"King's Row": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"Lijang Tower": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"Nepal": {
+			"type": "perm",
+			"creator": "<@140204477587259393>"
+		},
+		"Numbani": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"Watchpoint: Gibraltar": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"Volskaya Industries": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"______AFK Lounge______": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"_________Staff_________": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"____Temporary Channels____": {
+			"type": "perm",
+			"creator": "none"
+		},
+		"__Temporary Channels__": {
+			"type": "perm",
+			"creator": "none"
+		}
+	}
+}

@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+    <title>Login</title>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<!--link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"-->
+    <link rel="stylesheet" href="/styles/global.css"/>
+    <link rel="stylesheet" href="/styles/login.css"/>
+    <link rel="shortcut icon" href="/resources/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/resources/favicon.ico" type="image/x-icon">
+    <script src="/scripts/login.js"></script>
+    <script src="/scripts/global.js"></script>
+</head>
+<body>
+    <div class="content">
+        <div class="dialog">
+            <form class="group" method="POST">
+                <div class="inputs">
+                    <div class="title">
+                        Log In
+                    </div>
+                    <div class="input">
+                        <label for="username" id="label-username">Username (a-Z, 0-9, _ only)</label>
+                        <input type="text" id="username" name="username" maxlength="16" pattern="^[A-Za-z0-9_]+$" required>
+                        <span class="bar"></span>
+                    </div>
+                    <div class="input">
+                        <label for="password" id="label-password">Password (a-Z, 0-9, _!@#$%^&*+- only)</label>    
+                        <input type="password" id="password" name="password" maxlength="32" pattern="^[A-Za-z0-9_.!@#$%^&*+-]+$" required>
+                        <span class="bar"></span>
+                    </div>
+                </div>
+                <div class="buttons">
+                    <input type="submit" name="login" value="Log In">
+                    <a href="./signup"><button type="button" value="Sign Up">Sign Up</button></a>
+                </div>
+            </form>
+        </div>
+        <div class="toasts">
+            <% if(message.length > 0){ %>
+                <div class="toast">
+                    <div class="message">
+                        <%= message %>
+                    </div>
+                </div>
+            <% } %>
+        </div>
+    </div>
+</body>
+</html>

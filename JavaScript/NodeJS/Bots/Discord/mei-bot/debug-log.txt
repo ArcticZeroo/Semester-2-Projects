@@ -1,0 +1,6 @@
+
+[5/31/2016 10:11:20] DEBUG: Deleted channel rabbit from array and config.
+[6/1/2016 13:36:44] DEBUG: 0
+[6/1/2016 13:36:44] DEBUG: undefined
+[6/1/2016 13:36:51] DEBUG: Deleted channel rabbit from array and config.
+[6/1/2016 13:38:33] DEBUG: Deleted channel rabbit land place from array and config.

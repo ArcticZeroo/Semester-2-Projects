@@ -1,0 +1,5 @@
+
+[6/3/2016 15:27:13] DEBUG: Emitting event of type hello with content [object Object]
+[6/3/2016 15:27:13] DEBUG: Emitting event of type reconnect_url with content [object Object]
+[6/3/2016 15:27:13] DEBUG: Emitting event of type presence_change with content [object Object]
+[6/3/2016 15:27:13] DEBUG: Emitting event of type presence_change with content [object Object]

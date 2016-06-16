@@ -1,0 +1,6 @@
+﻿  io.cpp
+d:\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\io.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\io.cpp(15): error C2146: syntax error: missing ';' before identifier 'test'
+  ConsoleApplication2.cpp
+  Generating Code...
+d:\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): error C4716: 'writeAnswer': must return a value

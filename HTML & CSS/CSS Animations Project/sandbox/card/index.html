@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<title>CSS Animations Test</title>
+		<link rel="stylesheet" type="text/css" href="/sandbox/stylesheets/global.css"/>
+		<link rel="stylesheet" type="text/css" href="/sandbox/stylesheets/animations.css"/>
+		<!--
+			<link rel="import" href="https://www.polymer-project.org/0.5/components/paper-ripple/paper-ripple.html">
+		-->
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="/sandbox/scripts/animations.js"></script>
+		<script src="/sandbox/scripts/titles.js"></script>
+	</head>
+	<body>
+		<div id="hamburgerMenu">
+			<div id="hamburgerContent">
+				<div id="hamburgerTop">All Experiments</div>
+				<hr>
+				<div id="hamburgerBot"><ul>
+					<li class="selected">Card</li>
+					<li><a href="/sandbox/box/">Moving Box</a></li>
+				</ul>
+				</div>
+			</div>
+		</div>
+		<div id="screenCover"></div>
+		<div id="header">
+			<div id="topbar"></div>
+			<div id="bottombar">
+				<div id="headercontent">
+					<div id="hamburger" class="menuStart">
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div id="smallcontainer">
+						<div id="title"></div>
+						<div id="subtitle"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="content">
+			<center>
+				<div class="card">
+					<div id="title">Animation</div>
+						<br>
+					<div id="content">This card has been animated :o</div>
+				</div>
+			</center>
+			<!--FAB-->
+			<button id="fab" onclick="">
+				<span class="material-icons"> flash_on </span>
+				<paper-ripple fit></paper-ripple>
+			</button>
+		</div>
+	</body>
+</html>

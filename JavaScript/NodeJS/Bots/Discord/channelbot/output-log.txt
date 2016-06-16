@@ -1,0 +1,87 @@
+
+[5/22/2016 19:39:16] ChannelBot version 1.0.0 now online, serving 1 Server with 9 Users.
+[5/22/2016 19:39:34] Spencer@115983185908596741 has executed the command: @ChannelBot test
+[5/22/2016 20:16:09] Spencer@115983185908596741 has executed the command: @ChannelBot test
+[5/22/2016 22:07:13] Spencer@115983185908596741 has executed the command: @ChannelBot nickname Pharah
+[5/22/2016 22:08:43] ChannelBot version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 22:57:38] Spencer@115983185908596741 has executed the command: @ChannelBot reload
+[5/22/2016 22:57:38] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 22:57:41] ChannelBot version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 22:59:53] Spencer@115983185908596741 has executed the command: @ChannelBot reload
+[5/22/2016 22:59:53] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:00:06] ChannelBot version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:00:09] Spencer@115983185908596741 has executed the command: @ChannelBot ping
+[5/22/2016 23:00:14] Spencer@115983185908596741 has executed the command: @ChannelBot ping
+[5/22/2016 23:00:24] Spencer@115983185908596741 has executed the command: @ChannelBot reload
+[5/22/2016 23:00:24] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:00:27] ChannelBot version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:00:35] Spencer@115983185908596741 has executed the command: @ChannelBot ping
+[5/22/2016 23:01:29] Spencer@115983185908596741 has executed the command: @ChannelBot setnickname Mei
+[5/22/2016 23:01:38] Spencer@115983185908596741 has executed the command: @ChannelBot nickname mei
+[5/22/2016 23:01:41] ChannelBot version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:05:14] ChannelBot version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:05:21] Spencer@115983185908596741 has executed the command: @ChannelBot username Mei
+[5/22/2016 23:05:24] ChannelBot version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:05:36] Spencer@115983185908596741 has executed the command: @ChannelBot reload
+[5/22/2016 23:05:36] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:05:39] ChannelBot version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:05:52] Spencer@115983185908596741 has executed the command: @ChannelBot username Mei
+[5/22/2016 23:07:08] Spencer@115983185908596741 has executed the command: @ChannelBot test
+[5/22/2016 23:07:59] Spencer@115983185908596741 has executed the command: @ChannelBot setgame Overwatch
+[5/22/2016 23:10:09] Relyh@140204477587259393 has executed the command: @ChannelBot Ping
+[5/22/2016 23:10:29] Relyh@140204477587259393 has executed the command: @ChannelBot help
+[5/22/2016 23:10:58] Relyh@140204477587259393 has executed the command: @ChannelBot ping
+[5/22/2016 23:11:14] Relyh@140204477587259393 has executed the command: @ChannelBot Ping
+[5/22/2016 23:11:47] Spencer@115983185908596741 has executed the command: @ChannelBot reload
+[5/22/2016 23:11:47] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:11:50] Mei version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:11:56] Spencer@115983185908596741 has executed the command: @Mei PING
+[5/22/2016 23:11:59] Mei version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:12:17] Spencer@115983185908596741 has executed the command: @Mei reload
+[5/22/2016 23:12:20] Mei version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:12:26] Mei version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:12:42] Spencer@115983185908596741 has executed the command: @Mei PING
+[5/22/2016 23:12:46] Mei version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:13:58] Spencer@115983185908596741 has executed the command: @Mei reload
+[5/22/2016 23:14:01] Mei version 1.0.0 now online, serving 1 Server with 12 Users.
+[5/22/2016 23:14:05] Spencer@115983185908596741 has executed the command: @Mei PING
+[5/22/2016 23:14:10] Spencer@115983185908596741 has executed the command: @Mei pInG
+[5/22/2016 23:14:40] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:15:01] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:15:50] Spencer@115983185908596741 has executed the command: @Mei reload
+[5/22/2016 23:15:50] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:15:53] Mei version 1.0.0 now online, serving 1 Server with 11 Users.
+[5/22/2016 23:15:56] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:16:00] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:17:35] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:18:04] Spencer@115983185908596741 has executed the command: @Mei reload
+[5/22/2016 23:18:04] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:18:08] Mei version 1.0.0 now online, serving 1 Server with 11 Users.
+[5/22/2016 23:19:04] Spencer@115983185908596741 has executed the command: @Mei reload
+[5/22/2016 23:19:04] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:19:07] Mei version 1.0.0 now online, serving 1 Server with 11 Users.
+[5/22/2016 23:21:01] Spencer@115983185908596741 has executed the command: @Mei reload
+[5/22/2016 23:21:01] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:21:04] Mei version 1.0.0 now online, serving 1 Server with 11 Users.
+[5/22/2016 23:21:05] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:21:08] Spencer@115983185908596741 has executed the command: @Mei PING
+[5/22/2016 23:21:17] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:21:20] Spencer@115983185908596741 has executed the command: @Mei PING
+[5/22/2016 23:23:58] Spencer@115983185908596741 has executed the command: @Mei reload
+[5/22/2016 23:23:58] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:24:01] Mei version 1.0.0 now online, serving 1 Server with 11 Users.
+[5/22/2016 23:24:06] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:24:08] Spencer@115983185908596741 has executed the command: @Mei PING
+[5/22/2016 23:24:18] Spencer@115983185908596741 has executed the command: @Mei reload
+[5/22/2016 23:24:18] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:24:21] Mei version 1.0.0 now online, serving 1 Server with 11 Users.
+[5/22/2016 23:24:24] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:32:13] Spencer@115983185908596741 has executed the command: @Mei reload
+[5/22/2016 23:32:13] Spencer@115983185908596741 Restarted the bot!
+[5/22/2016 23:32:17] Mei version 1.0.0 now online, serving 1 Server with 11 Users.
+[5/22/2016 23:32:20] Spencer@115983185908596741 has executed the command: @Mei ping
+[5/22/2016 23:32:23] Spencer@115983185908596741 has executed the command: @Mei PING
+[5/22/2016 23:42:13] Spencer@115983185908596741 has executed the command: @Mei setgame ヽ༼ຈل͜ຈ༽ﾉ
+[5/23/2016 01:39:11] Alex@184176864166674432 has executed the command: @Mei temp Moonplox
+[5/23/2016 01:39:12] Alex@184176864166674432 created temporary channel Moonplox at the request of undefined.
+[5/23/2016 03:20:17] Mei version 1.0.0 now online, serving 1 Server with 16 Users.
